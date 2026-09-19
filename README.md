@@ -26,7 +26,7 @@ Everything here was built and broken in a personal lab tenant. Each lab includes
 | # | Lab | Status |
 | --- | --- | --- |
 | 01 | [Environment Setup](./lab-01-environment-setup/) — tenant provisioning, admin hardening, break-glass account | ✅ Complete |
-| 02 | Users & Groups — manual and bulk provisioning, security vs M365 vs dynamic groups | ✅
+| 02 | Users & Groups — manual and bulk provisioning, security vs M365 vs dynamic groups | ✅ Complete |
 | 03 | Password Resets & MFA — SSPR, admin-initiated resets, MFA registration | ⬜ Not started |
 | 04 | Group Policy — on-premises GPO configuration | ⬜ Not started |
 | 05 | Licensing — license assignment, group-based licensing | ⬜ Not started |
