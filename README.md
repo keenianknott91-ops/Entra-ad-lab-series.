@@ -14,9 +14,9 @@ Everything here was built and broken in a personal lab tenant. Each lab includes
 | --- | --- |
 | Cloud identity | Microsoft Entra ID |
 | Tenant | Microsoft 365 Business Premium trial |
-| On-premises | Windows Server (Active Directory Domain Services) | In progress |
-| Hypervisor | Hyper-V | In progress |
-| Ticketing | osTicket | In progress |
+| On-premises | Windows Server (Active Directory Domain Services) — in progress |
+| Hypervisor | Hyper-V — in progress |
+| Ticketing | osTicket — in progress |
 
 ---
 
