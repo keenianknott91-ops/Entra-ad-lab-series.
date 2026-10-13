@@ -94,7 +94,9 @@ Account created and matched to Dana Whitfield's title, department, office, and g
 **Note on method**
 Rather than assuming which groups a dispatcher needs, I opened the reference employee's profile and copied actual membership. Assuming access based on job title is how people end up over- or under-provisioned.
 
-![Caleb Nowak account created with matching attributes and group membership](screenshots/ticket-2041-new-hire.png)
+![Caleb Nowak's account created, showing 2 group memberships (object ID redacted)](screenshots/ticket-2041-new-hire.png)
+
+![Caleb Nowak's identity properties: display name, first and last name, UPN](screenshots/ticket-2041-new-hire-properties.png)
 
 ---
 
@@ -214,7 +216,7 @@ Both groups in this ticket were Assigned, so neither updated on its own when her
 **Communication**
 Informed Sofia Reyes and Claire that the transfer is complete, and told Claire the Operations Teams team may take a few hours to show up.
 
-![Updated profile and group membership after transfer](screenshots/ticket-2044-transfer.png)
+![Claire Sutton's group memberships after the transfer, including M365-Operations-Team (object IDs redacted)](screenshots/ticket-2044-transfer.png)
 
 ---
 

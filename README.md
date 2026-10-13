@@ -1,4 +1,3 @@
-[README_1.md](https://github.com/user-attachments/files/32151866/README_1.md)
 # Entra ID & Active Directory Lab Series
 
 A hands-on identity administration lab built to practice the day-to-day work of an IT help desk / support role: user lifecycle, authentication, access control, and hybrid identity.
@@ -15,9 +14,9 @@ Everything here was built and broken in a personal lab tenant. Each lab includes
 | --- | --- |
 | Cloud identity | Microsoft Entra ID |
 | Tenant | Microsoft 365 Business Premium trial |
-| On-premises | Windows Server (Active Directory Domain Services) |in progress 
-| Hypervisor | [Hyper-V} in progress 
-| Ticketing | osTicket | in progress
+| On-premises | Windows Server (Active Directory Domain Services) | In progress |
+| Hypervisor | Hyper-V | In progress |
+| Ticketing | osTicket | In progress |
 
 ---
 
