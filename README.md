@@ -38,6 +38,16 @@ Everything here was built and broken in a personal lab tenant. Each lab includes
 
 ---
 
+## Lab environment screenshots
+
+![Entra admin center overview for the Cove Harbor Logistics tenant: 29 users, 7 groups (tenant ID and user object ID redacted)](screenshots/entra-tenant-overview.png)
+
+![On-premises Active Directory user accounts in the lab domain](screenshots/on-prem-ad-users.png)
+
+![Help desk ticket: Margaret Doyle (Finance) locked out after password expired, High priority](screenshots/help-desk-ticket-password-lockout.png)
+
+---
+
 ## Skills demonstrated
 
 - Microsoft Entra ID administration (users, groups, roles, authentication methods)
